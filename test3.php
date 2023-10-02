@@ -8,9 +8,8 @@
 <body>
     
 <?php
-    echo "My name's Jeff"
+    echo "My name's Jeff";
 ?>
-
 
 </body>
 </html>
