@@ -7,6 +7,6 @@
 </head>
 <body>
     <?php echo "Are you frfr";?>
-    <?php echo "Ngl ngl no cap "?>
+    <?php echo "Ngl ngl no  cap "?>
 </body>
 </html>
