@@ -71,7 +71,7 @@
         return $value;
     }
     $retval = multiply (10);
-    Print "Return value is $retval\n";
+    Print "Return  value is $retval\n";
     ?>
 
     <?php
