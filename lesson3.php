@@ -9,7 +9,7 @@
     
 <?php
     #trying
-     print <<<END
+     print<<<END
      I don't know what I'm doing
      So don't mind the comments
      Haha
@@ -21,7 +21,7 @@
     */
  
     print "Insane in 
-    the membrane."
+    the membrane.";
 
 ?>
 
