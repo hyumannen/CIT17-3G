@@ -8,7 +8,7 @@
 <body>
     
 <?php
-    $int_var = 404;
+    $int_var = 707;
     $another_int = 11 + 11;
     $num = -11;
     $many = 2.2888800;
