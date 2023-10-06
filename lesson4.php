@@ -8,7 +8,7 @@
 <body>
     
 <?php
-    $int_var = 101;
+    $int_var = 404;
     $another_int = 11 + 11;
     $num = -11;
     $many = 2.2888800;
@@ -71,7 +71,7 @@
         return $value;
     }
     $retval = multiply (10);
-    Print "Return  value is $retval\n";
+    Print "Return value is $retval\n";
     ?>
 
     <?php

@@ -25,8 +25,8 @@
     ?>
 
     <?php 
-    $a = 42;
-    $b = 20;
+    $a = 11;
+    $b = 12;
    
     $c = $a + $b;
     echo "Addition Operation Result: $c <br/>";
